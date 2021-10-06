@@ -4,6 +4,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biscrab)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Solved.acbiscrab](http://mazassumnida.wtf/api/pastel/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![Solved.ac
+biscrab](http://mazassumnida.wtf/api/pastel/generate_badge?boj={handle})](https://solved.ac/{handle})
 
 
