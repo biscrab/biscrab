@@ -19,7 +19,7 @@ jobs:
       - uses: actions/checkout@v2
 
       # 뱀 생성
-      - uses: Platane/snk@master
+      - uses: biscrab/biscrab@master
         id: snake-gif
         with:
           github_user_name: biscrab
