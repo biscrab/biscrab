@@ -21,6 +21,7 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biscrab)](https://github.com/anuraghazra/github-readme-stats)
+![snake gif](https://github.com/[biscrab]/[biscrab]/blob/output/github-contribution-grid-snake.svg)
 
 
 
