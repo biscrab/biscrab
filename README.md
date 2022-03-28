@@ -1,4 +1,4 @@
-<b>대마고 1312 이상운의 깃허브</b><br/>
+<b>대마고 2116 이상운의 깃허브</b><br/>
 <b>동아리: NoNamed</b><br/>
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
