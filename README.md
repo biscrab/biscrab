@@ -25,5 +25,5 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biscrab)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biscrab)](https://github.com/biscrab/github-readme-stats)
 
