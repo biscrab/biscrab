@@ -2,7 +2,7 @@
    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=330&&section=header&text=biscrab&fontSize=70&animation=twinkling" />
 </div>
 <b>대덕소프트웨어마이스터고등학교 소프트개발과 2116 이상운의 깃허브</b><br/>
-<b>생일: 20005/06/08</b><br/>
+<b>생일: 2005/06/08</b><br/>
 <b>동아리: NoNamed</b><br/>
 <br/>
 <p>
